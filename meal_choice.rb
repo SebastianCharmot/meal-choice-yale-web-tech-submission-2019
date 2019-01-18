@@ -6,4 +6,4 @@ def meal_choice(meal = "meat")
  return "#{meal}."
 end
 
-meal-choice
+meal_choice
