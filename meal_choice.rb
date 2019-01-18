@@ -3,7 +3,7 @@
 
 
 def meal_choice(meal = "meat")
-  yield meal
+  p "#{meal}"
 end
 
 #meal_choice
