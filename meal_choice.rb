@@ -3,7 +3,8 @@
 
 
 def meal_choice(meal = "meat")
-  p "#{meal}"
+  print "#{meal}"
+  puts "\n"
 end
 
 #meal_choice
