@@ -3,3 +3,7 @@
 def meal_choice("meal" = "meat")
   print "#{meal}"
 end
+
+def meal_choice(meal = "meat")
+  puts "#{meal}."
+end
