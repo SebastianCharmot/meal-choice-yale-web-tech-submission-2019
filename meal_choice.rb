@@ -3,5 +3,5 @@
 
 
 def meal_choice(meal = "meat")
-  passed "#{meal}."
+  puts "#{meal}."
 end
