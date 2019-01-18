@@ -3,7 +3,7 @@
 
 
 def mealChoice(meal = "meat")
- "#{meal}."
+ return "#{meal}."
 end
 
 mealChoice
