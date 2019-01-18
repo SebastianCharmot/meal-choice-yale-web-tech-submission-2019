@@ -5,6 +5,7 @@
 def meal_choice(meal = "meat")
   print "#{meal}"
   puts "\n"
+  "#{meal}"
 end
 
 #meal_choice
